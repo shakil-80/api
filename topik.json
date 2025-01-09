@@ -2,18 +2,73 @@
   {
     "title": "Family",
     "tex": [
-      " ⚠️How many people are there in your family? = আপনার পরিবারে কতজন লোক আছে !!",
-      " ✅There are 5 people in my family: my father, mother, brother, sister, and me. = আমার পরিবারে ৫ জন সদস্য: আমার বাবা, মা, ভাই, বোন এবং আমি। !!",
-	  
-      " ⚠️Does your family live in a house or an apartment? = আপনার পরিবার কি একটি বাড়িতে থাকে নাকি একটি অ্যাপার্টমেন্টে? !!",
-      " ✅We live in a house in the countryside. = আমরা গ্রামাঞ্চলের একটি বাড়িতে থাকি। !!"
+        "⚠️How many people are there in your family? = আপনার পরিবারে কতজন লোক আছে !!",
+        "✅There are 5 people in my family: my father, mother, brother, sister, and me. = আমার পরিবারে ৫ জন সদস্য: আমার বাবা, মা, ভাই, বোন এবং আমি। !!",
+
+        "⚠️Does your family live in a house or an apartment? = আপনার পরিবার কি একটি বাড়িতে থাকে নাকি একটি অ্যাপার্টমেন্টে? !!",
+        "✅We live in a house in the countryside. = আমরা গ্রামাঞ্চলের একটি বাড়িতে থাকি। !!",
+
+        "⚠️What does your father do? = আপনার বাবা কি করেন? !!",
+        "✅My father is a doctor. He works at the local hospital. = আমার বাবা একজন ডাক্তার। তিনি স্থানীয় হাসপাতালে কাজ করেন। !!",
+
+        "⚠️How old is your mother? = আপনার মায়ের বয়স কত? !!",
+        "✅She is 40 years old, 1 year younger than my father. = তাঁর বয়স ৪০ বছর, আমার বাবার থেকে ১ বছর ছোট। !!",
+
+        "⚠️Do you have any siblings? What’s his/her name? = আপনার কি কোনো ভাইবোন আছে? তার নাম কি? !!",
+        "✅Yes, I do. I have 1 elder brother, David, and 1 younger sister, Mary. = হ্যাঁ, আমার আছে। আমার ১ জন বড় ভাই ডেভিড এবং ১ জন ছোট বোন মেরি। !!",
+
+        "⚠️Are you the oldest amongst your brothers and sisters? = আপনি কি আপনার ভাইবোনদের মধ্যে সবচেয়ে বড়? !!",
+        "✅No, I’m not. I’m the second child in my family. = না, আমি নই। আমি আমার পরিবারের দ্বিতীয় সন্তান। !!",
+
+        "⚠️What does your mother/father like? = আপনার মা/বাবা কী পছন্দ করেন? !!",
+        "✅My father likes playing football and my mother likes cooking. = আমার বাবা ফুটবল খেলতে পছন্দ করেন এবং আমার মা রান্না করতে পছন্দ করেন। !!",
+
+        "⚠️Do your parents let you stay out late? = আপনার বাবা-মা কি আপনাকে দেরি করে বাইরে থাকতে দেন? !!",
+        "✅Of course not. They always ask me to get home before 10 pm each night. = অবশ্যই না। তারা আমাকে প্রতি রাতে ১০টার আগে বাড়ি ফিরতে বলেন। !!",
+
+        "⚠️Do you stay with your parents? = আপনি কি আপনার বাবা-মায়ের সাথে থাকেন? !!",
+        "✅Right now, no, but I used to. = এখন না, তবে আমি আগে থাকতাম। !!",
+
+        "⚠️Does your family usually have dinner together? = আপনার পরিবার কি সাধারণত একসাথে রাতের খাবার খায়? !!",
+        "✅Yes, we do. My mom always prepares delicious meals for us. = হ্যাঁ, আমরা করি। আমার মা আমাদের জন্য সবসময় সুস্বাদু খাবার প্রস্তুত করেন। !!"
     ]
-  },
+},
+
   
   {
-    "title": "ফিলিস্তিন নিয়ে সময়ের সেরা গজল | পুড়ছে ফিলিস্তিন |",
+    "title": "RESTAURANT",
     "tex": [
-      "amar sonar bangla ami tumai valo basi = আমার  সুনার বাংলা আমি তুমাই ভাল বাসি"
+        "⚠️How often do you eat out? Who do you go with? = আপনি কতবার বাইরে খেতে যান? আপনি কার সাথে যান? !!",
+        "✅I often eat out on weekends, when I hang out with my friends. = আমি প্রায়ই সপ্তাহান্তে বাইরে খেতে যাই, যখন আমি আমার বন্ধুদের সাথে আড্ডা দিই। !!",
+
+        "⚠️What restaurant do you usually visit? = আপনি সাধারণত কোন রেস্টুরেন্টে যান? !!",
+        "✅Well, there are not many restaurants in my neighborhood, so my best choice is the deli in convenient stores like the Circle K, Mini-Stop, B-smart. = ঠিক আছে, আমার আশেপাশে বেশি রেস্টুরেন্ট নেই, তাই আমার সেরা পছন্দ হলো সার্কেল কে, মিনি-স্টপ, বি-স্মার্টের মতো সুবিধাজনক স্টোরগুলোর ডেলি। !!",
+
+        "⚠️What type of food do you enjoy to eat? Western or Asian? = আপনি কী ধরণের খাবার খেতে পছন্দ করেন? পশ্চিমা না এশিয়ান? !!",
+        "✅I’m interested in Asian food, Western food is not my thing. = আমি এশিয়ান খাবারে আগ্রহী, পশ্চিমা খাবার আমার জিনিস নয়। !!",
+
+        "⚠️How much do you usually pay when you eat out? = আপনি সাধারণত বাইরে খাওয়ার সময় কত টাকা দেন? !!",
+        "✅It’s not very expensive, just around $5 for each meal. = এটা খুব ব্যয়বহুল নয়, প্রতি খাবারের জন্য প্রায় $৫। !!",
+
+        "⚠️Do you enjoy spicy food? = আপনি কি মশলাদার খাবার পছন্দ করেন? !!",
+        "✅Yes, I do, especially on cold days. = হ্যাঁ, করি, বিশেষ করে ঠান্ডা দিনে। !!",
+
+        "⚠️Are the servers there friendly to you? = সেখানকার সার্ভাররা কি আপনার সাথে বন্ধুসুলভ? !!",
+        "✅Yes, they are. Most of them are really helpful. = হ্যাঁ, তারা তাই। তাদের বেশিরভাগই সত্যিই সহায়ক। !!",
+
+        "⚠️Have you ever tried Italian food? = আপনি কি কখনো ইতালীয় খাবার চেষ্টা করেছেন? !!",
+        "✅Yes, at least once, when I was in my friend’s wedding party. = হ্যাঁ, অন্তত একবার, যখন আমি আমার বন্ধুর বিয়ের অনুষ্ঠানে ছিলাম। !!",
+
+        "⚠️Are you concerned about calories when eating out? = আপনি কি বাইরে খাওয়ার সময় ক্যালোরি নিয়ে চিন্তিত? !!",
+        "✅Yes, I am. I’m on diet now, so this really matters to me. = হ্যাঁ, আমি চিন্তিত। আমি এখন ডায়েটে আছি, তাই এটি আমার জন্য খুবই গুরুত্বপূর্ণ। !!",
+
+        "⚠️Are fast food restaurants like KFC or McDonald’s famous in your country? = আপনার দেশে কি KFC বা McDonald’s-এর মতো ফাস্ট ফুড রেস্টুরেন্ট জনপ্রিয়? !!",
+        "✅Yes, they are. The youth in my country are big fans of fast food. = হ্যাঁ, তারা জনপ্রিয়। আমার দেশের যুব সমাজ ফাস্ট ফুডের বড় ভক্ত। !!",
+
+        "⚠️Do you often drink alcohol when eating out? = আপনি কি বাইরে খাওয়ার সময় প্রায়ই অ্যালকোহল পান করেন? !!",
+        "✅No, not often. Just when I have parties with my friends. = না, প্রায়ই নয়। শুধুমাত্র যখন আমি আমার বন্ধুদের সাথে পার্টি করি। !!"
     ]
-  }
+}
+  
+  
 ]
